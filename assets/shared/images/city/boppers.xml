@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cameos0000" x="0" y="0" width="2417" height="651"/>
+	<SubTexture name="cameos0001" x="0" y="0" width="2417" height="651"/>
+	<SubTexture name="cameos0002" x="0" y="651" width="2417" height="651"/>
+	<SubTexture name="cameos0003" x="0" y="651" width="2417" height="651"/>
+	<SubTexture name="cameos0004" x="0" y="1302" width="2417" height="651"/>
+	<SubTexture name="cameos0005" x="0" y="1302" width="2417" height="651"/>
+	<SubTexture name="cameos0006" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0007" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0008" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0009" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0010" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0011" x="0" y="1953" width="2417" height="651"/>
+	<SubTexture name="cameos0012" x="0" y="1953" width="2417" height="651"/>
+</TextureAtlas>

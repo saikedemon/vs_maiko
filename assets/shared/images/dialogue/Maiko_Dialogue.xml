@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maiko_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maiko_idle0000" x="960" y="0" width="480" height="737"/>
+	<SubTexture name="maiko_talk0000" x="0" y="0" width="480" height="737" pivotX="-143.8" pivotY="-175.7"/>
+	<SubTexture name="maiko_talk0001" x="0" y="0" width="480" height="737"/>
+	<SubTexture name="maiko_talk0002" x="480" y="0" width="480" height="737"/>
+	<SubTexture name="maiko_talk0003" x="480" y="0" width="480" height="737"/>
+	<SubTexture name="maiko_talk0004" x="960" y="0" width="480" height="737"/>
+	<SubTexture name="maiko_talk0005" x="960" y="0" width="480" height="737"/>
+	<SubTexture name="smug_idle0000" x="555" y="752" width="555" height="752"/>
+	<SubTexture name="smug_talk0000" x="1440" y="0" width="555" height="752" pivotX="-143.8" pivotY="-160.9"/>
+	<SubTexture name="smug_talk0001" x="1440" y="0" width="555" height="752"/>
+	<SubTexture name="smug_talk0002" x="0" y="752" width="555" height="752"/>
+	<SubTexture name="smug_talk0003" x="0" y="752" width="555" height="752"/>
+	<SubTexture name="smug_talk0004" x="555" y="752" width="555" height="752"/>
+	<SubTexture name="smug_talk0005" x="555" y="752" width="555" height="752"/>
+</TextureAtlas>

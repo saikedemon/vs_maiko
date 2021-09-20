@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "magician down"
+		},
+		{
+			"offsets": [
+				14,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "magician up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "magician idle dance"
+		},
+		{
+			"offsets": [
+				-30,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "magician right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "magician left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wink",
+			"loop": false,
+			"name": "magician WINK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maiko",
+	"position": [
+		26,
+		64
+	],
+	"healthicon": "maiko",
+	"flip_x": false,
+	"camera_position": [
+		20,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

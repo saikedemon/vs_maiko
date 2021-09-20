@@ -1,0 +1,10 @@
+maiko:left bf:right
+:0:talk:0.05:normal:What brings you here so late at night?
+:1:talk:0.05:normal:Beep.
+:0:talk:0.05:normal:Ah, of course.
+:0:talk:0.05:normal:I still got some hours to kill, \nand I`m sure you have some fire ass\n beats on that boombox.
+:0:smug:0.05:normal:Wanna have a freestyle session?
+:0:smug:0.05:normal:Though, be warned, my bars are hotter\n than myself.
+:1:talk:0.05:normal:Bep bee aa boop!
+:0:smug:0.05:normal:That`s what I like to hear.
+

@@ -1,0 +1,11 @@
+maiko:left crowd:center bf:right
+:1:talk:0.05:normal:Encore! Encore! Encore!
+:0:talk:0.05:normal:Looks like they want more!
+:0:smug:0.05:normal:Wanna give them one more preformance?
+:2:talk:0.05:normal:Beep!
+:0:smug:0.05:normal:Hell yeah
+:0:talk:0.05:normal:It's been fun doing this.
+:0:talk:0.05:normal:Let's do it again some day.
+:0:talk:0.05:normal:That is, when you're not busy doing...\n whatever it is you do.
+
+

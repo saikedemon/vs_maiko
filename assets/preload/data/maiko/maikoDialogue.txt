@@ -1,0 +1,5 @@
+maiko:left bf:right
+:0:smug:0.05:normal:One, two, three, four
+:0:smug:0.05:normal:Your girlfriend's a bitch and \nyour mom's a whore.
+:1:talk:0.05:normal:Wut
+

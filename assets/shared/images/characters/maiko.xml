@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maiko.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="magician WINK0000" x="0" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0001" x="0" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0002" x="392" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0003" x="392" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0004" x="784" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0005" x="784" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0006" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0007" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0008" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0009" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0010" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0011" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0012" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0013" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0014" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0015" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0016" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0017" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0018" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician WINK0019" x="1176" y="0" width="392" height="722"/>
+	<SubTexture name="magician down0000" x="1568" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0001" x="1568" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0002" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0003" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0004" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0005" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0006" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0007" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0008" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0009" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0010" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0011" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0012" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0013" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0014" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0015" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0016" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0017" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0018" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician down0019" x="1948" y="0" width="380" height="573"/>
+	<SubTexture name="magician idle dance0000" x="758" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0001" x="758" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0002" x="1133" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0003" x="1508" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0004" x="1883" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0005" x="1883" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0006" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0007" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0008" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0009" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0010" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0011" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0012" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0013" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician idle dance0014" x="2258" y="723" width="375" height="736"/>
+	<SubTexture name="magician left0000" x="2328" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0001" x="2328" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0002" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0003" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0004" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0005" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0006" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0007" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0008" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0009" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0010" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0011" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0012" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0013" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0014" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0015" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0016" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0017" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0018" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician left0019" x="2673" y="0" width="345" height="723"/>
+	<SubTexture name="magician right0000" x="3018" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0001" x="3018" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0002" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0003" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0004" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0005" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0006" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0007" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0008" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0009" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0010" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0011" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0012" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0013" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0014" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0015" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0016" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0017" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0018" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0019" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0020" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician right0021" x="3402" y="0" width="384" height="680"/>
+	<SubTexture name="magician up0000" x="0" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0001" x="0" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0002" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0003" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0004" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0005" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0006" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0007" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0008" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0009" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0010" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0011" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0012" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0013" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0014" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0015" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0016" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0017" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0018" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0019" x="379" y="723" width="379" height="753"/>
+	<SubTexture name="magician up0020" x="379" y="723" width="379" height="753"/>
+</TextureAtlas>
